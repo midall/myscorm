@@ -1,4 +1,4 @@
-# MySCORM
+# MySCORM Project
 
 ## Description
 SCORM wrapper
